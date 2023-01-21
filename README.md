@@ -12,8 +12,6 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
------------------
-23/1/21 start
+# 23/1/21 start project
 Practice building the "ETH dApp" provided by UNCHAIN.
 https://app.unchain.tech/learn/ETH-dApp/
------------------
